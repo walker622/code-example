@@ -1,3 +1,2 @@
-# code-example
-Code Example.
-Stack (Clean Architecture, MVP, RxJava, Dagger2, Retrofit)
+# Example mobile client for OpenWeatherMap 
+Stack: Clean Architecture, MVP, RxJava, Dagger2, Retrofit
