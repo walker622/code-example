@@ -1,4 +1,4 @@
-# Hiring code example mobile client for OpenWeatherMap 
+# Hiring code example [Mobile client for OpenWeatherMap]
 Stack: Clean Architecture, MVP, RxJava, Dagger2, Retrofit
 <br/>Developer: Ivanov Dmitry
 
